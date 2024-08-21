@@ -1,3 +1,3 @@
 # CAVRI
 
-CAVRI stands for content-addressable verifiable resillent internet.
+CAVRI stands for content-addressable, verifiable, and resilient internet.
