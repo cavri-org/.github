@@ -9,7 +9,7 @@ Content-addressable. Addressing immutable data using cryptographic hashes. For e
 
 ## Layer 1 (V)
 
-Verifiable. DID and [self]-verifiable content (digital signatures). It can be used for. For example:
+Verifiable. DID and [self]-verifiable content (digital signatures). It can be used to address mutable data. For example:
   - `did://secp256k1:4hqwkd52rv0nmz71a4vnmg0ry0kjczmw6czgcz2xv755z407fzja/my-project/some.json`
 
 Both layers are protocol agnostic and allow the building of RI (resilient internet).
