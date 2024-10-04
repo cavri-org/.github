@@ -13,6 +13,8 @@
 
 ## Revision
 
+It can be used for editing and mutable information.
+
 ```json
 {
   "revision": {
