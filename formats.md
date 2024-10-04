@@ -42,7 +42,7 @@ They can be used as human-readable path and as branches.
 
 ## Contacts
 
-```
+```json
 {
   "contacts": {
     "public_key": [
